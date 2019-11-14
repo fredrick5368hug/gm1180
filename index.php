@@ -1,4 +1,4 @@
 <?php
-header("Location: https://install-setups.website/mcafe/");
+header("Location: https://www.mcafee.com/enterprise/en-us/products/total-protection-for-data-loss-prevention.html");
 die();
 ?>
