@@ -1,5 +1,4 @@
 <?php
-header("Location: https://actnor1.herokuapp.com/
-");
+header("Location: https://www.ry.com.au/info/about-us.list");
 die();
 ?>
